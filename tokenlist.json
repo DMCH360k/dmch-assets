@@ -1,0 +1,20 @@
+
+{
+  "name": "DMCH Token List",
+  "timestamp": "2026-11-20T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x90f609ad0501969A6ef7db2ea239bBbE8bD03690",
+      "name": "DMCH",
+      "symbol": "DMCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DMCH360k/dmch-assets/main/logo.png"
+    }
+  ]
+}
